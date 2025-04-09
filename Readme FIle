@@ -1,0 +1,4 @@
+Firsyly user can instal a pakage json file, ejs, and a nodemon.
+
+Project description:- This is a simple Notes App where users can create and manage tasks. Each note consists of a title and a task description. Once a note is created, it appears as a card displaying the title. Clicking on the card reveals the full task. Users can also rename their notes title.
+
